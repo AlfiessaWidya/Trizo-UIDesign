@@ -99,4 +99,17 @@ body .footer {
     body .crd {
         margin: 2% 4%;
     }
+
+    body .logo-section {
+        padding-right: 7%;
+        margin-right: 4%;
+    }
+
+    body .top {
+        margin-top: 7%;
+    }
+
+    body .buttom {
+        margin-top: 24px;
+    }
 }
